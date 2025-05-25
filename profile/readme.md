@@ -1,4 +1,4 @@
-Overly
+# Overly
 
 Overly is a macOS app that lets you summon your favorite AI chatbots—like ChatGPT, Claude, and others—using a simple hotkey. Unlike Peek AI (which is built with Electron), Overly is crafted in Swift and leverages native Safari APIs for a lighter, faster, and more integrated experience. Float your AI wherever you want—no more clunky browser windows or heavy frameworks.
 
