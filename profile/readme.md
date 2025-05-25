@@ -16,4 +16,4 @@ Peek AI is cool, but Electron apps can be heavy—like bringing a tank to a scoo
 
 ## Credits
 
-Inspired by Peek AI, but built natively for Mac by Hypackel. Special thanks to the open-source community, caffeine, and that one Stack Overflow answer from 2013.
+Inspired by Peek AI, but built natively for Mac by Hypackel. Special thanks to the open-source community, and that one Stack Overflow answer from 2013.
